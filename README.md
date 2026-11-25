@@ -110,7 +110,7 @@ Features include:
 
 These findings are descriptive and do not establish causation.
 
-![LogiSight Agent Analytics](assets/agent-analytics.png)
+![LogiSight Agent Analytics](assets/Agent-Analytics.png)
 
 ### 3.5 Regional Intelligence
 
@@ -124,7 +124,7 @@ Features include:
 - Delivery-volume comparisons.
 - Regional performance tables.
 
-![LogiSight Regional Intelligence](assets/regional-intelligence.png)
+![LogiSight Regional Intelligence](assets/Regional-Intelligence.png)
 
 ### 3.6 Product Categories
 
@@ -137,7 +137,7 @@ Features include:
 - Delivery-time distributions.
 - Category performance tables.
 
-![LogiSight Product Categories](assets/product-categories.png)
+![LogiSight Product Categories](assets/Product -Categories.png)
 
 ### 3.7 Data Explorer
 
@@ -154,7 +154,7 @@ Features include:
 - Late-delivery export.
 - Analytical insights report export.
 
-![LogiSight Data Explorer](assets/data-explorer.png)
+![LogiSight Data Explorer](assets/Data-Explorer.png)
 
 ### 3.8 Methodology & Data Quality
 
@@ -171,7 +171,7 @@ Features include:
 - Mathematical assumptions.
 - Methodological limitations.
 
-![LogiSight Methodology and Data Quality](assets/methodology-data-quality.png)
+![LogiSight Methodology and Data Quality](assets/Methodology & Data-Quality.png)
 
 ## 4. Dataset and Data Sources
 
