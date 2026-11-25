@@ -137,7 +137,7 @@ Features include:
 - Delivery-time distributions.
 - Category performance tables.
 
-![LogiSight Product Categories](assets/Product -Categories.png)
+![LogiSight Product Categories](assets/Product-Categories.png)
 
 ### 3.7 Data Explorer
 
@@ -171,7 +171,7 @@ Features include:
 - Mathematical assumptions.
 - Methodological limitations.
 
-![LogiSight Methodology and Data Quality](assets/Methodology & Data-Quality.png)
+![LogiSight Methodology and Data Quality](assets/Methodology&Data-Quality.png)
 
 ## 4. Dataset and Data Sources
 
