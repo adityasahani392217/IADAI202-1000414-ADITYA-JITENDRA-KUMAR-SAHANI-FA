@@ -66,6 +66,8 @@ Provides a consolidated view of delivery performance through:
 - Late deliveries by traffic condition.
 - Automatically generated operational insights.
 
+![LogiSight Executive Overview](assets/dashboard-overview.png)
+
 ### 3.2 Delay Analyzer
 
 Investigates how weather and traffic conditions are associated with delivery duration.
@@ -78,6 +80,8 @@ Features include:
 - Box plots and comparative charts.
 - Group-level statistical summaries.
 
+![LogiSight Delay Analyzer](assets/delay-analyzer.png)
+
 ### 3.3 Fleet Performance
 
 Evaluates delivery performance across different vehicle types.
@@ -89,6 +93,8 @@ Features include:
 - Delivery volume comparisons.
 - Late-delivery percentages.
 - Vehicle performance rankings.
+
+![LogiSight Fleet Performance](assets/fleet-performance.png)
 
 ### 3.4 Agent Analytics
 
@@ -104,6 +110,8 @@ Features include:
 
 These findings are descriptive and do not establish causation.
 
+![LogiSight Agent Analytics](assets/agent-analytics.png)
+
 ### 3.5 Regional Intelligence
 
 Identifies geographical variations in delivery performance.
@@ -116,6 +124,8 @@ Features include:
 - Delivery-volume comparisons.
 - Regional performance tables.
 
+![LogiSight Regional Intelligence](assets/regional-intelligence.png)
+
 ### 3.6 Product Categories
 
 Investigates delivery-time differences across product categories.
@@ -126,6 +136,8 @@ Features include:
 - Median delivery-time comparisons.
 - Delivery-time distributions.
 - Category performance tables.
+
+![LogiSight Product Categories](assets/product-categories.png)
 
 ### 3.7 Data Explorer
 
@@ -142,6 +154,8 @@ Features include:
 - Late-delivery export.
 - Analytical insights report export.
 
+![LogiSight Data Explorer](assets/data-explorer.png)
+
 ### 3.8 Methodology & Data Quality
 
 Documents the mathematical and data-processing methodology.
@@ -156,6 +170,8 @@ Features include:
 - Statistical formulas.
 - Mathematical assumptions.
 - Methodological limitations.
+
+![LogiSight Methodology and Data Quality](assets/methodology-data-quality.png)
 
 ## 4. Dataset and Data Sources
 
